@@ -24,7 +24,6 @@ Foram implementados três circuitos auxiliares e um principal com o funcionament
  * **NOP**: Sem operação (0x32)
  * **JMP**: Salto não-condicional para o endereço AB (0x33)
  * **STP**: Fim da execução (0x46)
- * 
 
 #### PC ####
 
